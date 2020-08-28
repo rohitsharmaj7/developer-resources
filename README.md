@@ -6,3 +6,4 @@ Basically the purpose of this repository is to provide the developers the list o
 
 <h3>CSS Libraries</h3>
 1. Imagehover.css - A css library used for giving the hovering effects to the images <a href="https://www.imagehover.io/">Link to library</a>
+2. ColorGradients - Beautiful color gradient shades can be found here <a href="https://digitalsynopsis.com/design/beautiful-color-ui-gradients-backgrounds/">Link to Gradients</a>

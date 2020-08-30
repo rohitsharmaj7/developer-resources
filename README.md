@@ -14,3 +14,9 @@ Basically the purpose of this repository is to provide the developers the list o
 2. Picular - Gives the hex code of different shades of a single color as per our search <a href="https://picular.co/">Link to resource</a><br/>
 3. ColorBox - <a href="http://colorbox.io/">Link to resource</a><br/>
 4. Color wise - A wise collection of various colors <a href="http://colorbox.io/">Link to resource</a><br/>
+5. Palette - Scans the website and extracts the colors used in it <a href="http://palette.site/">Link to resource</a><br/>
+6. Duo Tones- Generates the filters on the images <a href="https://duotones.co/">Link to resource</a><br/>
+7. ColorSpark - Randomly generate the color and copy their hex codes and use them <a href="https://colorspark.app/">Link to resource</a><br/>
+8. ColorHunt - Variety of colors along with hex codes present. <a href="https://colorhunt.co/">Link to resource</a><br/>
+9. OpenColors - Open source github project, having variety of colors combos which can be used in projects <a href="https://yeun.github.io/open-color/">Link to resource</a><br/>
+10. Colors- House of Van Schneider containing huge amount of colors <a href="https://vanschneider.com/">Link to resource</a><br/>

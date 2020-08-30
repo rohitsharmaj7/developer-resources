@@ -20,3 +20,10 @@ Basically the purpose of this repository is to provide the developers the list o
 8. ColorHunt - Variety of colors along with hex codes present. <a href="https://colorhunt.co/">Link to resource</a><br/>
 9. OpenColors - Open source github project, having variety of colors combos which can be used in projects <a href="https://yeun.github.io/open-color/">Link to resource</a><br/>
 10. Colors- House of Van Schneider containing huge amount of colors <a href="https://vanschneider.com/">Link to resource</a><br/>
+11. Culrs - A simple and smart approach to select colors <a href="https://www.culrs.com/">Link to resource</a><br/>
+12. colourco.de - Intereseting way to select colors for our web project <a href="https://colourco.de/">Link to resource</a><br/>
+13. ShapeFactory - DuoColors woth codes <a href="https://pigment.shapefactory.co/">Link to resource</a><br/>
+14. Palx - Sober collection of colors <a href="https://palx.jxnblk.com/">Link to resource</a><br/>
+15. Scale - Color generator scale <a href="https://hihayk.github.io/scale/">Link to resource</a><br/>
+16. Adobe color generator - Generate colors by your own <a href="https://color.adobe.com/create/">Link to resource</a><br/>
+17. Eva Design System - Deep learning color generator <a href="https://colors.eva.design/">Link to resource</a><br/>

@@ -11,6 +11,6 @@ Basically the purpose of this repository is to provide the developers the list o
 
 <h3>Color Resources for designers</h3>
 1. Happyhues - Different colors are available here for using in web projects, purpose of using each color is explained very well <a href="https://www.happyhues.co/">Link to resource</a><br/>
-2. Picular - Gives the hex code of different shades of a single color as per our search <a href="https://picular.co/">Link to resource</a>
-3. ColorBox - <a href="http://colorbox.io/">Link to resource</a>
-4. Color wise - A wise collection of various colors <a href="http://colorbox.io/">Link to resource</a>
+2. Picular - Gives the hex code of different shades of a single color as per our search <a href="https://picular.co/">Link to resource</a><br/>
+3. ColorBox - <a href="http://colorbox.io/">Link to resource</a><br/>
+4. Color wise - A wise collection of various colors <a href="http://colorbox.io/">Link to resource</a><br/>

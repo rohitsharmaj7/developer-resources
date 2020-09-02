@@ -27,3 +27,11 @@ Basically the purpose of this repository is to provide the developers the list o
 15. Scale - Color generator scale <a href="https://hihayk.github.io/scale/">Link to resource</a><br/>
 16. Adobe color generator - Generate colors by your own <a href="https://color.adobe.com/create/">Link to resource</a><br/>
 17. Eva Design System - Deep learning color generator <a href="https://colors.eva.design/">Link to resource</a><br/>
+
+<h3>Graphic designing resources</h3>
+1. Storytale- Having 1378 unique illustation with different styles <a href="https://storytale.io/">Link to resource</a><br/>
+2. Feather-icons - having figma plugin <a href="https://feathericons.com/">Link to resource</a><br/>
+3. Is.graphis - free and quality device mockups available here <a href="https://www.ls.graphics/free-mockups">Link to resource</a><br/>
+4. UX collective - Most read blog for UX designers <a href="https://uxdesign.cc/">Link to resource</a><br/>
+5. Webflow - Break code barrier and design <a href="webflow.io">Link to reosurce</a><br/>
+6. Handz - 3D illustaration oof hands for ui designs <a href="https://www.handz.design/">Link to resource</a><br/>
